@@ -63,7 +63,7 @@ Reliability: The system should have an uptime of 99.9% and recover quickly from 
 
 ### Use Case Diagrams 📊
 Objective: Visual representation of interactions between users and the system.
-![alx-booking-uc png](https://github.com/user-attachments/assets/ba92dc65-c9cc-4ab0-921d-458ee6e08899)
+
 
 
 #### What are Use Case Diagrams?
